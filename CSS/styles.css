@@ -57,7 +57,12 @@ p{
     position: absolute;
     right: 300px;
     top: 50px;
+    
+}
 
+.middle-container{
+    margin: 50px 0 50px 0;
+    
 }
 
 .profile-img{
@@ -108,10 +113,6 @@ a:hover{
     padding: 15px 0;
 }
 
-.middle-container{
-    margin: 50px 0 50px 0;
-    
-}
 
 .bottom-container{
     background-color: #66BFBF;
